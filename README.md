@@ -25,7 +25,7 @@ components/
     └── README.md
 
 
-## How It Works
+## How It(should) Works
 1. **AJAX Request**:
    - When hovering over the "Groups" menu item, an AJAX request is made to the `onboarding/ajax_video` action.
    - The server responds with the video HTML.
