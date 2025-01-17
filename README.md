@@ -1,4 +1,6 @@
 # Onboarding Component
+****** work is progress, it does not work *****
+
 
 ## Description
 The Onboarding component dynamically loads and displays a hover video for menu items (e.g., Groups) using AJAX. The video is fetched dynamically from the server to ensure lightweight performance.
