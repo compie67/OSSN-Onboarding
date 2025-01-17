@@ -44,5 +44,5 @@ function onboarding_init() {
     error_log("Onboarding component initialized."); // Debug log
     so the modules is properly activated
 
-setting trigger now is set to Group(hover_video.js)
+setting trigger now is set on the about url (hover_video.js)
 
