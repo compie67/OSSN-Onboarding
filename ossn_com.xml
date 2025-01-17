@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns="http://www.opensource-socialnetwork.org/v/3.0">
+    <name>Onboarding</name>
+    <id>Onboarding</id>
+    <author>Custom Development</author>
+    <description>Dynamically loads a hover video for menu items using AJAX.</description>
+    <license>MIT</license>
+    <author_url>https://shadow.nlsociaal.nl/</author_url>
+    <version>1.0</version>
+    <requires>
+        <type>ossn_version</type>
+        <version>7.0</version>
+    </requires>
+</component>
